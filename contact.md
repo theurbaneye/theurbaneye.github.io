@@ -4,13 +4,6 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Please reach out to us regarding any geospatial services or solutions that might be of interest to you. We work with advanced technologies in computer vision and machine learning to extract information from satellite imagery where manual annotation is impossible or extremely time taking. 
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+We're an early stage startup currently with a lot of experience in building state of the art technology. We are committed to render the services for your organization in the most effective manner.

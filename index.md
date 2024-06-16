@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: The Urban Eye 
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Geospatial Intelligence for your city
+intro_image: "images/city-satellite-view.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# The Urban Eye
+## Geospatial Intelligence for your city
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The urban eye aims to enthuse intelligence about a city into your operations. Whether you're building new roads, identifying building footprints or assessing water quality and pathways, our geospatial AI solutions can deliver. 

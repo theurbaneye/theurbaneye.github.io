@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "No bulky softwares",
+    "description": "Lean solutions carved for your needs. We don't charge you for the features you don't use.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Open Source Stack",
+    "description": "Our solutions are based on an open source stack therefore reducing dependencies of licenses.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "UX-first approach",
+    "description": "What is a software if it cannot be used? We built at the level that our users can understand and operate such that our solutions empower them, not intimidate them.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

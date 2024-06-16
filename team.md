@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+The Urban Eye started as a spinoff from the [Geospatial Computer Vision Lab](https://anupamsobti.github.io/geospatial-computer-vision) at [Plaksha University](https://plaksha.edu.in). 
